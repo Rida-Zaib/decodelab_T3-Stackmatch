@@ -1,4 +1,4 @@
-StackMatch — AI Recommendation Logic
+# StackMatch — AI Recommendation Logic
 DecodeLabs — Artificial Intelligence Industrial Training Kit (Batch 2026) — Project 3
 
 A content-based recommendation engine that matches a person's skills to the tech career that fits them best — no user history, no collaborative filtering, just TF-IDF weighting and cosine similarity over a 16-role dataset.
